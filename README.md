@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Rani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkit8.net%2Fillustrations%2Fprogramming-coding%2F&psig=AOvVaw0FwxqvIef43HguLHh7wIFi&ust=1729407665737000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCD4bnvmYkDFQAAAAAdAAAAABAb"/>
+<img align="right" width=400 alt="coding" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fkit8.net%2Fillustrations%2Fprogramming-coding%2F&psig=AOvVaw0FwxqvIef43HguLHh7wIFi&ust=1729407665737000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCD4bnvmYkDFQAAAAAdAAAAABAb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fweb-programming-illustration-coding-development-application-296177894&psig=AOvVaw0FwxqvIef43HguLHh7wIFi&ust=1729407665737000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCD4bnvmYkDFQAAAAAdAAAAABAj)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujarani06052001&label=Profile%20views&color=0e75b6&style=flat" alt="pujarani06052001" /> </p>
 
