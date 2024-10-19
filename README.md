@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Rani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" width=400 alt="coding" src="![Coding@2x](https://github.com/user-attachments/assets/f2330c45-4791-494a-b878-7f537e64c00c)
-"/>
+<img align="right" width="400" alt="coding" src="https://github.com/user-attachments/assets/f2330c45-4791-494a-b878-7f537e64c00c"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujarani06052001&label=Profile%20views&color=0e75b6&style=flat" alt="pujarani06052001" /> </p>
 
