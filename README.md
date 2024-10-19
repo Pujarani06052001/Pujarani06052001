@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Rani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://github.com/user-attachments/assets/0d3641b2-3dfd-4548-bfc3-f18b235929b8"/>
+<img align="center" width="400" alt="coding" src="https://github.com/user-attachments/assets/0d3641b2-3dfd-4548-bfc3-f18b235929b8"/>
 
 
 
